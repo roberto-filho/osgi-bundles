@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-SymbolicName: org.json.simple
 Embed-Directory: jars
-Built-By: sobert
+Built-By: filho
 Bundle-ManifestVersion: 2
-Bnd-LastModified: 1402775113922
+Bnd-LastModified: 1448641149236
 Embed-Dependency: json-simple
 Import-Package: org.json.simple,org.json.simple.parser
 Tool: Bnd-0.0.357
@@ -13,5 +13,5 @@ Bundle-Version: 0.0.1.SNAPSHOT
 Bundle-ClassPath: jars/json-simple-1.1.jar
 Embed-Transitive: true
 Created-By: Apache Maven Bundle Plugin
-Build-Jdk: 1.8.0
+Build-Jdk: 1.8.0_66
 

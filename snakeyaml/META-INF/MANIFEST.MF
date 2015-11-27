@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-SymbolicName: org.yaml.snakeyaml
 Embed-Directory: jars
-Built-By: sobert
+Built-By: filho
 Bundle-ManifestVersion: 2
-Bnd-LastModified: 1402775108128
+Bnd-LastModified: 1448641149088
 Embed-Dependency: snakeyaml
 Import-Package: org.yaml.snakeyaml;version="1.13",org.yaml.snakeyaml.c
  omposer;version="1.13",org.yaml.snakeyaml.constructor;version="1.13",
@@ -29,9 +29,9 @@ Export-Package: org.yaml.snakeyaml.constructor,org.yaml.snakeyaml,org.
  yaml.util,org.yaml.snakeyaml.reader,org.yaml.snakeyaml.resolver,org.y
  aml.snakeyaml.error,org.yaml.snakeyaml.events
 Bundle-Name: org.yaml.snakeyaml
-Bundle-Version: 0.0.1.SNAPSHOT
+Bundle-Version: 1.13.0
 Bundle-ClassPath: jars/snakeyaml-1.13.jar
 Embed-Transitive: true
 Created-By: Apache Maven Bundle Plugin
-Build-Jdk: 1.8.0
+Build-Jdk: 1.8.0_66
 

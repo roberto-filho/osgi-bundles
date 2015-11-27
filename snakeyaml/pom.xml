@@ -10,6 +10,7 @@
 	</parent>
 
 	<artifactId>org.yaml.snakeyaml</artifactId>
+        <version>1.13</version>
 	<packaging>bundle</packaging>
 
 	<dependencies>
