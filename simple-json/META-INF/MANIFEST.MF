@@ -3,13 +3,13 @@ Bundle-SymbolicName: org.json.simple
 Embed-Directory: jars
 Built-By: filho
 Bundle-ManifestVersion: 2
-Bnd-LastModified: 1448641149236
+Bnd-LastModified: 1448641699794
 Embed-Dependency: json-simple
 Import-Package: org.json.simple,org.json.simple.parser
 Tool: Bnd-0.0.357
 Export-Package: org.json.simple,org.json.simple.parser
 Bundle-Name: org.json.simple
-Bundle-Version: 0.0.1.SNAPSHOT
+Bundle-Version: 1.1.0
 Bundle-ClassPath: jars/json-simple-1.1.jar
 Embed-Transitive: true
 Created-By: Apache Maven Bundle Plugin

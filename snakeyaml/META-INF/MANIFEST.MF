@@ -3,7 +3,7 @@ Bundle-SymbolicName: org.yaml.snakeyaml
 Embed-Directory: jars
 Built-By: filho
 Bundle-ManifestVersion: 2
-Bnd-LastModified: 1448641149088
+Bnd-LastModified: 1448641699708
 Embed-Dependency: snakeyaml
 Import-Package: org.yaml.snakeyaml;version="1.13",org.yaml.snakeyaml.c
  omposer;version="1.13",org.yaml.snakeyaml.constructor;version="1.13",
